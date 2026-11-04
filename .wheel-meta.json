@@ -1,0 +1,22 @@
+{
+  "wheel_id": 759,
+  "structure": "umbrella",
+  "slug": "garagedoorsrepairbrisbane-110",
+  "project": "garage-door-repairs-brisbane-questions-to-ask-27e954940dcdba932",
+  "parent_t1_ref": "garagedoorsrepairbrisbane-154",
+  "node_role": "feeder",
+  "money_target": "garagedoorsrepairbrisbane.com.au",
+  "primary_kw": "garage door repairs brisbane questions to ask",
+  "intended_url": "https://aumedia.neocities.org/garage-door-repairs-brisbane-questions-to-ask-27e954940dcdba932/",
+  "tier": "T2",
+  "writeback_nonce": "85379308f22f83db",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/garagedoorsrepairbrisbane-154/",
+      "anchor": "the garage door repairs brisbane cost guide overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
